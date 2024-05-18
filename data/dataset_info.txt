@@ -1,0 +1,5 @@
+Author: Rounak Banik
+Title: The Complete Pokemon Dataset
+Source: https://www.kaggle.com/datasets/rounakbanik/pokemon
+License: CC0: Public Domain
+Changes: The dataset has not been changed.
